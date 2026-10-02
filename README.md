@@ -5,3 +5,7 @@ Skill: I am learning C++ programming
 Interest: Interested in cloud computing
 
 Goal: Contribute to open sourse
+
+## Projects
+
+I am working on an ESP8266 Wi-Fi Robot project that uses sensors, motors and a web server for control.
