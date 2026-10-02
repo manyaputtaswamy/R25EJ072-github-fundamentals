@@ -3,3 +3,5 @@ Hi, I am Manya Puttaswamy, an engineering student studying Computer Science and 
 Skill: I am learning C++ programming
 
 Interest: Interested in cloud computing
+
+Goal: Contribute to open sourse
